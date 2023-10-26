@@ -1,5 +1,5 @@
 ### Fair winds ⛵
-[https://github.com/b101010/let_me_try_codespaces] (Let me try codespaces)
+[Let me try codespaces] (https://github.com/b101010/let_me_try_codespaces)
 
 
 <!--
